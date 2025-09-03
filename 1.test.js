@@ -12,3 +12,5 @@
 //  supporting object-oriented, 
 //  imperative, 
 //  non declarative (e.g. functional programming) styles
+
+// It's LIFO - last in first out - the thing that gets inside the call stack at last, that is what gets execute first
