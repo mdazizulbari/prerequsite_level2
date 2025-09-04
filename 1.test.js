@@ -11,7 +11,7 @@
 //  dynamic language,
 //  supporting object-oriented, 
 //  imperative,
-//  not strongly typed(can change the type of the variable)
+//  not strongly typed(can change the type of the variable),
 //  non declarative (e.g. functional programming) styles
 
 // It's LIFO - last in first out - the thing that gets inside the call stack at last, that is what gets execute first
